@@ -18,6 +18,7 @@
 | **Storage** | 3x 2TB NVMe M.2 SSD (6TB total) |
 | **PSU** | Thermaltake 1650W |
 | **CPU Cooler** | Alpenföhn AIO – 360mm radiator |
+| **Case Fans** | 5x 120mm Be Quiet! Silent Wings – intake/exhaust configuration |
 | **Case** | Custom / No-name |
 | **OS** | Windows 11 Pro 64-bit |
 
